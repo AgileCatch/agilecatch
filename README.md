@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ffecd2,100:ff9a9e&height=150&section=header&text=Welcome&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=45&desc=AgileCatch%20GitHub%20Profile&descAlignY=70)
 
 <br>
@@ -17,7 +18,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 #### < Used at least Once ><br>
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
@@ -35,6 +37,6 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgileCatch&layout=compact)](https://github.com/SoftyChoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgileCatch&layout=compact)](https://github.com/AgileCatch/github-readme-stats)
 
-[![AgileCatch's github stats](https://github-readme-stats.vercel.app/api?username=AgileCatch&show_icons=true)](https://github.com/SoftyChoo)
+[![AgileCatch's github stats](https://github-readme-stats.vercel.app/api?username=AgileCatch&show_icons=true)](https://github.com/AgileCatch)
