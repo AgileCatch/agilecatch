@@ -24,7 +24,4 @@
  
 <br/>
 <br/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgileCatch&layout=compact)](https://github.com/AgileCatch/github-readme-stats)
 
-[![AgileCatch's github stats](https://github-readme-stats.vercel.app/api?username=AgileCatch&show_icons=true)](https://github.com/AgileCatch)
