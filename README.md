@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, Android Developer 김영현 (AgileCatch) 입니다
+# 👋🏻 코드는 목적이 아니라 수단 — 비즈니스를 성장시키는 Android 엔지니어 Agilecatch입니다.
 
 <a href="https://www.instagram.com/molang.e/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=E4405F"/>
