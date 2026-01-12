@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏻 코드는 목적이 아니라 수단 — 비즈니스를 성장시키는 Android 엔지니어 Agilecatch입니다.
+# 👋🏻 "다음사람이 편한 코드"를 작성하는 개발자 Agilecatch입니다.
 
 <a href="https://www.instagram.com/molang.e/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=E4405F"/>
