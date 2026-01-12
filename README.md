@@ -26,13 +26,16 @@
 ---
 
 ## 🧰 Platforms & Tools
+## 🧰 Platforms & Tools
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Coroutines-5C2D91?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flow-000000?style=flat-square&logo=reactivex&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/MVVM-1F6FEB?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clean%20Architecture-111111?style=flat-square&logo=abstract&logoColor=white"/>
+
 
 ---
 
