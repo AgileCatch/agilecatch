@@ -35,15 +35,6 @@
 <img src="https://img.shields.io/badge/MVVM-1F6FEB?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clean%20Architecture-111111?style=flat-square&logo=abstract&logoColor=white"/>
 
-
----
-
-## 📈 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgileCatch&show_icons=true&hide_title=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgileCatch&layout=compact" height="150"/>
-</div>
-
 ---
 
 ## 📨 Contact
